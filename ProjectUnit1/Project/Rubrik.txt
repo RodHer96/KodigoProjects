@@ -1,0 +1,16 @@
+Console/terminal grade evaluation system for a section of 20 students.
+
+
+We need to manage your grades as a group, we need to input your name and your evaluation result (one number from 0 to 10). Use text files as a database. 
+Statistical module of grades obtained will be required. 
+It is not necessary to use OOP, but we need a good structure of the application. 
+We will need to see your top-down design as well.
+
+
+Present statistics on screen and at the end of the file.
+
+
+Statistics: min, max, avg (promedio), most repeated, less repeated.
+
+
+ (Criteria: best practices = 3, optimal solution = 7)

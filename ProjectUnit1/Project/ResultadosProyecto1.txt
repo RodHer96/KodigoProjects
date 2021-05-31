@@ -1,0 +1,64 @@
+-----Datos ingresados-----
+Rodrigo obtuvo una calificación de 7.65
+Josue obtuvo una calificación de 7.65
+Alma obtuvo una calificación de 7.65
+José obtuvo una calificación de 8.99
+Daniel obtuvo una calificación de 8.78
+Miguel obtuvo una calificación de 5.12
+Coco obtuvo una calificación de 8.25
+Manuel obtuvo una calificación de 4.52
+Carlos obtuvo una calificación de 8.41
+María obtuvo una calificación de 4.12
+Rodolfo obtuvo una calificación de 3.25
+Enrique obtuvo una calificación de 7.45
+Emerson obtuvo una calificación de 4.15
+Héctor obtuvo una calificación de 6.14
+Dinora obtuvo una calificación de 2.17
+Fernanda obtuvo una calificación de 8.24
+Fernando obtuvo una calificación de 9.87
+James obtuvo una calificación de 8.45
+Ronaldo obtuvo una calificación de 6.45
+René obtuvo una calificación de 9.28
+-----Resultados-----
+La nota máxima obtenida fue 9.87
+La nota mínima obtenida fue 2.17
+El promedio obtenido fue 6.83
+Las notas con la mayor frecuencia son: 
+->7.65
+Las notas con la menor frecuencia son: 
+->5.12
+->8.25
+->4.12
+->9.28
+->8.45
+->8.78
+->8.41
+->3.25
+->4.15
+->7.45
+->8.24
+->6.45
+->8.99
+->2.17
+->9.87
+->4.52
+->6.14
+Nota ---------- Frecuencia
+5.12 ---------- 1
+8.25 ---------- 1
+7.65 ---------- 3
+4.12 ---------- 1
+9.28 ---------- 1
+8.45 ---------- 1
+8.78 ---------- 1
+8.41 ---------- 1
+3.25 ---------- 1
+4.15 ---------- 1
+7.45 ---------- 1
+8.24 ---------- 1
+6.45 ---------- 1
+8.99 ---------- 1
+2.17 ---------- 1
+9.87 ---------- 1
+4.52 ---------- 1
+6.14 ---------- 1
